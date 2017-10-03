@@ -1,0 +1,14 @@
+{
+	"name": "cavellblood/validatecontactform",
+	"description": "Validate contact form with Google reCAPTCHA",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Cavell L. Blood",
+			"homepage": "https://cavellblood.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
